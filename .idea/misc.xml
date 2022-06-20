@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/drawable/bg_dash_gray.xml" value="0.2445" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/drawable/bg_dash_red.xml" value="0.2445" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/drawable/bottom_border_gray.xml" value="0.1645" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1645" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/drawable/oval_gray.xml" value="0.2445" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/drawable/oval_red.xml" value="0.2445" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/drawable/selector_btn_edit.xml" value="0.25" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/drawable/selector_btn_save.xml" value="0.2445" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/drawable/shape_btn_blue_shade.xml" value="0.2445" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/drawable/shape_btn_common_shade.xml" value="0.25" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/drawable/shape_btn_common_transparent.xml" value="0.25" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/drawable/shape_btn_red_shade.xml" value="0.2445" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/drawable/shape_btn_red_transparent.xml" value="0.2445" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/layout/activity_main2.xml" value="0.30117753623188404" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/layout/activity_main_bak.xml" value="0.29347826086956524" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/layout/activity_tab2.xml" value="0.318359375" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/layout/activity_tab3.xml" value="0.33177083333333335" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/layout/fr_simple_card.xml" value="0.29528985507246375" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/layout/fragment_service_hall.xml" value="0.31302083333333336" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/layout/fragment_service_hall2.xml" value="0.32760416666666664" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/layout/item_tab_edit.xml" value="0.5663600525624178" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/layout/item_tab_group.xml" value="0.29528985507246375" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/layout/item_tab_list.xml" value="0.5" />
+        <entry key="..\:/workspace/android/TestTabProject/app/src/main/res/layout/item_tab_placeholder.xml" value="0.33177083333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
